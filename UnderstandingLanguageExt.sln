@@ -60,15 +60,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial15 - BiBind()", "Tu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial14 - Intro to Eithers", "Tutorial14_Intro_to_Eithers\Tutorial14 - Intro to Eithers.csproj", "{EA56408F-7A13-4296-A434-A86557CFE8FA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial13 - Pure functions", "Tutorial13_pure_functions\Tutorial13 - Pure functions.csproj", "{059EB0E1-ED3A-4C15-9C86-119B9FFA6F32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial13 - Pure functions", "Tutorial13_pure_functions\Tutorial13 - pure functions.csproj", "{059EB0E1-ED3A-4C15-9C86-119B9FFA6F32}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial12 - Function composition", "Tutorial12_function_compositionial12\Tutorial12 - Function composition.csproj", "{F6E956E0-A2ED-4468-A867-914210BB5060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial12 - Function composition", "Tutorial12_function_compositionial12\Tutorial12 - function composition.csproj", "{F6E956E0-A2ED-4468-A867-914210BB5060}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial11  - Short circuiting", "Tutorial11_short_circuiting\Tutorial11  - Short circuiting.csproj", "{5356A74E-6001-4A63-A212-E52BA7C78F44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial11  - Short circuiting", "Tutorial11_short_circuiting\Tutorial11  - short circuiting.csproj", "{5356A74E-6001-4A63-A212-E52BA7C78F44}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial10  - Returning monads", "Tutorial10_returning_monads\Tutorial10  - Returning monads.csproj", "{15E2B69C-CEAE-4DF4-8E19-D280D0487452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial10  - Returning monads", "Tutorial10_returning_monads\Tutorial10  - returning monads.csproj", "{15E2B69C-CEAE-4DF4-8E19-D280D0487452}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial09 - Automatic validation", "Tutorial09_automatic_validation\Tutorial09 - Automatic validation.csproj", "{BF829BE3-DF93-4B64-9D3D-3905C9B23115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial09 - Automatic validation", "Tutorial09_automatic_validation\Tutorial09 - automatic validation.csproj", "{BF829BE3-DF93-4B64-9D3D-3905C9B23115}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial08 - Declarative style", "Tutorial08_declarative_style\Tutorial08 - Declarative style.csproj", "{7140AE34-E61D-4ABA-B631-66DD73617C15}"
 EndProject
